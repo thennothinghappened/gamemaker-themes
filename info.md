@@ -3,3 +3,5 @@ The below is a snippet from my `local_settings.json` file in my GameMaker IDE Ap
 
 I've mainly put this here just not to lose it since I think it looks kinda nice (even though it was just from
 throwing together random-ish colours). Whether anyone would actually want to use it, eh?
+
+If you _did_ want to use it though, basically just paste those lines into your JSON file, being careful not to make duplicates (its not the most fun process till proper IDE theme support)
