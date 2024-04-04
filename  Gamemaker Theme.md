@@ -14,7 +14,7 @@ The current code editor for GM stores preferences in your `local_settings.json` 
 - **MacOS:** `~/.config/GameMakerStudio2/<username>_<user_id>/local_settings.json`
 - **Linux:** no idea, haven't checked! might be also in `.config`?
 
-Basically just paste [the lines](./local_settings.json) into your JSON file, being 
+Basically just paste [the lines](local_settings.json) into your JSON file, being 
 careful not to make duplicates (it's not the most fun process)
 
 ##### Code Editor 2
@@ -25,7 +25,7 @@ textmate for colourization and is thus a lot more powerful, but its definitely a
 finicky process still; not helped by the old editor storing colours in reverse 
 order, where the new one does it more normally.
 
-The [.tmTheme file](./OrcasTheme.tmTheme) is below. Place that in the `Themes` subdirectory under the
+The [.tmTheme file](OrcasTheme.tmTheme) is below. Place that in the `Themes` subdirectory under the
 same one shown for `local_settings.json` earlier, and on a restart the IDE should pick it up.
 
 You can now select the theme from the dropdown in **Preferences > Code Editor 2 > Theme**. the IDE
