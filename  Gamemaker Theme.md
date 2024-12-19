@@ -30,3 +30,9 @@ same one shown for `local_settings.json` earlier, and on a restart the IDE shoul
 
 You can now select the theme from the dropdown in **Preferences > Code Editor 2 > Theme**. the IDE
 may need a restart before it correctly applies.
+
+#### Late Addition!
+
+I've also just gone ahead and ported over the
+[Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+theme from VSCode, which I've found I quite like looking at. So that's here too now!
