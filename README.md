@@ -6,19 +6,19 @@ specifically!
 ### Themes
 
 #### Orca's Theme (CE1, CE2)
-[!](./OrcasTheme.png)
+![Preview](./OrcasTheme.png)
 
 This one I actually made rather than ported. It looks alright, I prefer it to the default colours.
 
 #### Palenight
-[!](./PaleNight.png)
+![Preview](./PaleNight.png)
 
 This is a port of the
 [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 theme from Visual Studio, which looks quite nice.
 
 #### VSCode 2026 Light
-[!](./VSCodeLight2026.png)
+![Preview](./VSCodeLight2026.png)
 
 I've been preferring light themes recently, and this one is quite pleasant (although it looks
 more relaxed with VSCode's font in my opinion.)
